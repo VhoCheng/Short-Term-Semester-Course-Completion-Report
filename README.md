@@ -1,5 +1,3 @@
-# Short-Term-Semester-Course-Completion-Report
-
 # 潮头观澜：智能体时代通信工程学生的技术认知重构与职业规划
 
 ——《企业专家系列讲座与职业规划》短学期课程总结报告
